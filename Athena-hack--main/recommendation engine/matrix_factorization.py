@@ -96,3 +96,4 @@ class matrix_factorization():
 d = np.array([[5,3,1],[1,3,5],[3,5,1]])
 d2 = matrix_factorization(d,2)
 d2.train_model(learning_rate = 0.1)
+
