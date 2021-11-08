@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
 df = pd.read_csv(r"C:\Users\Ankur Aggarwal\Desktop\e-commerce_Customers.csv")
 df.head()
 
