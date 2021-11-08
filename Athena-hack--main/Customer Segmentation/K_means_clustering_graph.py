@@ -20,3 +20,4 @@ plt.xlabel("Age")
 plt.ylabel("Annual Income (k$)")
 ax.set_zlabel('Spending Score (1-100)')
 plt.show()
+
